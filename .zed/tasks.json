@@ -1,0 +1,6 @@
+[
+  {
+    "label": "Start Server",
+    "command": "nodemon -e zig,zon -x 'zig build ru'n"
+  }
+]
